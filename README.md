@@ -403,3 +403,6 @@ Total tradable symbols: 256
 
 
 xm
+
+kr exchange https://www.kiwoom.com/h/common/bbs/VBbsBoardBWFOZView
+
